@@ -1,9 +1,22 @@
 body{
     background-color:paleturquoise;
+    text-align: center;
 }
+.CartaoDeVisita {
+    width: 40%;
+    background-color: aquamarine;
+    margin: auto;
 
+}
 img {
      width: 250px;
-      height:100px; 
+      height: 150px;
 
 }
+
+h2 {
+    color: blue;
+}
+
+
+
